@@ -21,7 +21,7 @@ const Checkout = () => {
   return (
     <>
     <Helmet>
-      <title>Lista de pedidos - Platzi Conf Merch</title>
+      <title>Pedidos - Platzi Conf Merch</title>
     </Helmet>
     <div className="Checkout">
       <div className="Checkout-content">
